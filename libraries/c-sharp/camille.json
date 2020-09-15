@@ -2,7 +2,7 @@
     "owner": "MingweiSamuel",
     "repo": "Camille",
     "language": "C#",
-    "description": "Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.",
+    "description": "Fast, rate limited, with automatic retries. Up-to-date with nightly CI releases.",
     "links": [
         {
             "name": "NuGet",
